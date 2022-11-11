@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/parchiscoinweb/static/css/main.1faefbca.css",
+    "main.js": "/parchiscoinweb/static/js/main.12adaebf.js",
+    "static/js/787.c4212fcb.chunk.js": "/parchiscoinweb/static/js/787.c4212fcb.chunk.js",
+    "static/media/log.png": "/parchiscoinweb/static/media/log.19b3ffbbd62f01e573a9.png",
+    "index.html": "/parchiscoinweb/index.html",
+    "main.1faefbca.css.map": "/parchiscoinweb/static/css/main.1faefbca.css.map",
+    "main.12adaebf.js.map": "/parchiscoinweb/static/js/main.12adaebf.js.map",
+    "787.c4212fcb.chunk.js.map": "/parchiscoinweb/static/js/787.c4212fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1faefbca.css",
+    "static/js/main.12adaebf.js"
+  ]
+}
