@@ -1,4 +1,8 @@
 .text {
+  text-align: start;
+}
+
+.txtx {
   text-align: center;
 }
 
@@ -6,11 +10,11 @@
   position: relative;
   left: 40%;
   border-radius: 50%;
-  border: 2px solid gray;
+  border: 2px solid rgb(0, 0, 0);
   box-shadow: 50px black;
   box-sizing: border-box;
   margin: 20px;
-  padding: 20px;
+  padding: 1px;
 }
 
 .B {
@@ -22,9 +26,6 @@
   color: red;
 }
 
-.foott {
-  height: 120px;
-}
 
 .h2 {
   color: aliceblue;
@@ -32,7 +33,25 @@
   padding-top: 20px;
   padding-right: 50px;
 }
+.h20 {
+  color: aliceblue;
+  position: absolute;
+  padding-top: 20px;
+  padding-right: 50px;
+
+}
 
 .pr {
   font-size: 10px;
+}
+
+@media (max-width: 400px) {
+  .img {
+    width: 100px;
+    left: 30%;
+  }
+  .text {
+    text-align: start;
+  }
+ 
 }

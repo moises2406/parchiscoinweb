@@ -126,8 +126,9 @@ export default function Main() {
           políticas de este servicio").
           <br />
           <br />
-          <h4> Esperamos que esta guía haya sido de su ayuda.</h4>
         </p>
+        <h4 className="txtx"> Esperamos que esta guía haya sido de su ayuda.</h4>
+
       </div>
       <br />
       <br />
