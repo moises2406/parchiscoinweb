@@ -1,11 +1,16 @@
-import React from "react";
 import logo from "../img/log.png";
 
 export default function Main() {
   return (
     <div className="container">
       <br />
-      <img src={logo} className="img" alt="logo" />
+      <div className="text-center">
+        <img
+          src={logo}
+          className="rounded-circle border border-dark border-1 shadow-lg p-1 mb-1"
+          alt="logo"
+        />
+      </div>
       <br />
       <br />
       <div className="container">
@@ -32,7 +37,7 @@ export default function Main() {
         <p className="text">
           1: Una ves descargado el juego e iniciado, a continuación cree un
           nombre de <strong>usuario</strong> y una <strong>contraseña</strong>{" "}
-          que se almacenaran en la PC local, eso es para proteger el aseso de
+          que se almacenaran en la PC local, esto es para proteger el aseso de
           otras personas a su cuenta.
           <br />
           <br />
@@ -42,7 +47,7 @@ export default function Main() {
           o ver sus ganancias en su wallet.
           <br />
           <br />
-          3: una vez hecho el segundo paso se mostrarán una área de texto para
+          3: una vez hecho el segundo paso se mostrará una área de texto para
           que escriba las <strong> 25 palabras clave</strong> que ha guardado en
           un sitio seguro: una vez terminado este paso estará listo para jugar.
         </p>
@@ -127,8 +132,10 @@ export default function Main() {
           <br />
           <br />
         </p>
-        <h4 className="txtx"> Esperamos que esta guía haya sido de su ayuda.</h4>
-
+        <h4 className="txtx">
+          {" "}
+          Esperamos que esta guía haya sido de su ayuda.
+        </h4>
       </div>
       <br />
       <br />
