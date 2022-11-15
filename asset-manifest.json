@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/parchiscoinweb/static/css/main.1d83f3d9.css",
-    "main.js": "/parchiscoinweb/static/js/main.9954a6ad.js",
+    "main.css": "/parchiscoinweb/static/css/main.bc4ee493.css",
+    "main.js": "/parchiscoinweb/static/js/main.36cba66b.js",
     "static/js/787.c4212fcb.chunk.js": "/parchiscoinweb/static/js/787.c4212fcb.chunk.js",
     "static/media/log.png": "/parchiscoinweb/static/media/log.19b3ffbbd62f01e573a9.png",
     "index.html": "/parchiscoinweb/index.html",
-    "main.1d83f3d9.css.map": "/parchiscoinweb/static/css/main.1d83f3d9.css.map",
-    "main.9954a6ad.js.map": "/parchiscoinweb/static/js/main.9954a6ad.js.map",
+    "main.bc4ee493.css.map": "/parchiscoinweb/static/css/main.bc4ee493.css.map",
+    "main.36cba66b.js.map": "/parchiscoinweb/static/js/main.36cba66b.js.map",
     "787.c4212fcb.chunk.js.map": "/parchiscoinweb/static/js/787.c4212fcb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d83f3d9.css",
-    "static/js/main.9954a6ad.js"
+    "static/css/main.bc4ee493.css",
+    "static/js/main.36cba66b.js"
   ]
 }
