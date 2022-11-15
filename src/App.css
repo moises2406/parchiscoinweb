@@ -7,12 +7,10 @@
 }
 
 .img {
-
   border-radius: 50%;
   border: 2px solid rgb(0, 0, 0);
   box-shadow: 50px black;
   box-sizing: border-box;
-
 }
 
 .B {
@@ -44,7 +42,9 @@
 .hl {
   color: aliceblue;
 }
-
+.pof {
+  position: "fixed";
+}
 @media (max-width: 400px) {
   .img {
     width: 100px;

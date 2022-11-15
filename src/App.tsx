@@ -17,7 +17,9 @@ function App() {
   return (
     <Router>
       <Nav />
-
+      <br />
+      <br />
+      <br />
       <Routes>
         <Route path="/" element={<Main />} />
         <Route path="/Privacy" element={<Privacy />} />

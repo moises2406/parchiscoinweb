@@ -15,7 +15,7 @@ export default function Main() {
       <br />
       <div className="container">
         <p className="text">
-          Bienbedido a <strong>ParchisCoin</strong> un juego donde siempre
+          Bienbenido a <strong>ParchisCoin</strong> un juego donde siempre
           ganas, el juego que mina <strong>Criptomonedas</strong> y con esas
           monedas puedes jugar para ganar más, al final de cada partida es
           posible que siempre tengas saldo para seguir jugando, este juego

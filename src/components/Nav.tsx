@@ -5,7 +5,12 @@ import { Link } from "react-router-dom";
 
 function NavScrollExample() {
   return (
-    <Navbar bg="black" expand="lg" variant="dark">
+    <Navbar
+      bg="black"
+      expand="lg"
+      variant="dark"
+      style={{ position: "fixed", width: "100%" }}
+    >
       <Container fluid className="container">
         <Link to={"/"} className="navbar-brand">
           ParchisCoin
